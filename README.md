@@ -43,7 +43,6 @@ Ensure you have the following dependencies installed:
 ### Usage
 Clone the repository and execute the Jupyter Notebook to reproduce the experiments:
 ```bash
-# Example dependency installation
 pip install torch torchvision numpy matplotlib
 ```
 
